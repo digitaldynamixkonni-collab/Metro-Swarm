@@ -1,0 +1,8 @@
+{
+  "name": "Metro Swarm",
+  "description": "Lead a growing 3D urban crowd across sunlit city avenues, grab tactical power-ups, absorb stragglers and rival packs, and claim the skyline before time runs out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
